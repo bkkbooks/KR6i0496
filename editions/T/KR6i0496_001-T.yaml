@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6i0496/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢安息國三藏安世高譯聞如是一時佛遊於舍衛國祇樹給孤獨園佛告諸比丘比丘受教從佛而聽佛言比丘凡人為一法受塵自污迷惑憂愁沒無端際吾見其不得無上吉祥之道如丈夫欲見女子色是以好色之士為染為醉為貪為污為惑為著為住為受從婬女言故長久趨走往來為受懃苦耳常欲聞婬女之聲鼻欲聞其香舌欲得其味身欲更其細滑是以長久趨走往來受苦是故不當為女色聲香味細滑所染惑也當覺知是又復諸比丘凡人為法受塵自污迷惑憂愁沒而無際吾見其不得無上吉祥之道如婬女欲見男子色是以好色之女為染為醉為貪為污為惑為著為住為受為士色故長久趨走往來受苦耳常欲聞男子之聲鼻欲聞其香舌欲得其味身欲更其細滑是以長久趨走往來受苦是故不當為士色聲香味細滑所染惑也當覺知是佛說是已皆歡喜受行
+  hash: sha256:24b7428c79d20ffa869de49d86d863bb597e6f5475422c519e50b7918a7ac8e2
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說法受塵經, id: KR6i0496_T_001-juan-start, juan_n: '001', jhead: 佛說法受塵經}
+  - {type: 'cbeta:juan-end', offset: 309, content: 佛說法受塵經, id: KR6i0496_T_001-juan-end, juan_n: '001', jhead: 佛說法受塵經}
+metadata:
+  title: 佛說法受塵經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0792.xml
+    old_id: T17n0792
+hash: sha256:5b2f3cd7c5ae29d003ce1e726dba09cfb3de5496f7ceaf60ea14537ca575672f

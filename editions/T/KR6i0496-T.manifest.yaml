@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0496/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0496/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說法受塵經
+  identifiers:
+    krp: KR6i0496
+    cbeta: T17n0792
+    cbeta_old_id: T17n0792
+    authorityid: CA0000941
+    json_key: T0792
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0792.xml
+    old_id: T17n0792
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0496_000-T.yaml, hash: 'sha256:e4eb871c4690946300f010ff4c831f17e692f7fc945cf2001315554ac59e465e'}
+  - {seq: 1, filename: KR6i0496_001-T.yaml, hash: 'sha256:5b2f3cd7c5ae29d003ce1e726dba09cfb3de5496f7ceaf60ea14537ca575672f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0496_000-T.markers.yaml, hash: 'sha256:3d314241ded89a9b79b2be1c1c0697c72383760256dbbe796a06f73e276f964e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0496_001-T.markers.yaml, hash: 'sha256:c305f13461e3079d5a53ee8cf467589b3682cf85e1573ae513b1979b7623a81e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0496_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 309
+  label: 佛說法受塵經
+  type: juan
+  level: 1
+hash: sha256:a8791e4d2d8605c89d7e1ab199dbd984b69f0f67dd094ccb5bfc0d5079b50c03
